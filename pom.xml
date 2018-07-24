@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>DataSourceDemo</groupId>
   <artifactId>DataSourceDemo</artifactId>
-  <version>7.1.0.GA</version>
+  <version>0.1-snapshot</version>
   <packaging>war</packaging>
   <name>DataSourceDemo</name>
   <build>
